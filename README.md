@@ -5,7 +5,7 @@
 
 ## Status
 
-🚧 **Work in progress** — built as a personal portfolio exercise to consolidate
+**Work in progress** — built as a personal portfolio exercise to consolidate
 full-stack development skills on a modern Node.js + React stack.
 
 ## Tech Stack
